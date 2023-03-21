@@ -4,8 +4,8 @@ import shutil
 import time
 import os
 
-path = "C:\\Users\\97254\\Downloads\\"
-moveto = "C:\\Users\\97254\\Documents\\Calibre Books\\"
+path = "C:\\Downloads\\"
+moveto = "C:\\Documents\\Calibre Books\\"
 
 files = os.listdir(path)
 try:
